@@ -91,10 +91,9 @@ These files are stored in the `outputs/` folder.
 
 ## ☁️ Google Colab
 
-This project was developed and trained in [Google Colab](https://colab.research.google.com/).  
+This project was developed and trained in [Google Colab](https://colab.research.google.com/). 
+I will add more trading notebooks during this development with all the variations and on different datasets and different methods
 Use the demo notebook for a full walkthrough:
-
-### I will add more trading notebooks during this development with all the variations and on different datasets and different methods
 
 📓 `notebooks/demo_colab.ipynb`
 
