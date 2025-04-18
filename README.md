@@ -30,7 +30,7 @@ data/
 │   ├── sample1.jpg
 │   ├── sample2.jpg
 │   └── ...
-└── masks/
+└── Anotations/
     ├── sample1_mask.png
     ├── sample2_mask.png
     └── ...
